@@ -1,8 +1,8 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "lobster1989's blog"
+description: "lobster1989 的个人技术博客"
 
-avatar: https://pianfan.github.io/images/avatar.png
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: https://lobster1989.github.io/images/avatar.png
+favicon: https://lobster1989.github.io/images/favicon.ico
 
 navigation:
   - name: 首页
@@ -18,16 +18,16 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: perc_zc@126.com
   facebook:
-  github: pianfan
+  github: lobster1989
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2024 lobster1989
 
-url: https://pianfan.github.io
+url: https://lobster1989.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
